@@ -1,0 +1,301 @@
+Rep ID;Sales Rep;Date;Product ID;Product Category;Area;Cost price;Value;VAT;Total Sales Price
+2;Donald Duck;1998-04-01;27769;Peripherals;Scotland;?1 689,17;?2 085,40;?364,95;?2 450,35
+4;Mickey Mouse;1998-04-04;67165;Hardware;Wales;?980,48;?1 210,47;?211,83;?1 422,30
+4;Mickey Mouse;1998-04-08;59145;Hardware;Wales;?1 443,02;?1 551,63;?271,54;?1 823,17
+2;Donald Duck;1998-04-08;4695;Hardware;England;?4 121,46;?4 848,78;?848,54;?5 697,32
+4;Mickey Mouse;1998-04-11;13249;Peripherals;Wales;?2 361,34;?2 683,34;?469,58;?3 152,92
+1;Fred Flintstone;1998-04-12;35731;Hardware;England;?3 764,30;?3 921,15;?686,20;?4 607,35
+2;Donald Duck;1998-04-12;35783;Books/Mags;Scotland;?2 778,72;?3 430,52;?600,34;?4 030,86
+4;Mickey Mouse;1998-04-15;39278;Peripherals;England;?950,30;?1 032,93;?180,76;?1 213,69
+2;Donald Duck;1998-04-16;16470;Books/Mags;Scotland;?2 149,18;?2 414,81;?422,59;?2 837,40
+1;Fred Flintstone;1998-04-16;67362;Hardware;Ireland;?767,81;?914,06;?159,96;?1 074,02
+1;Fred Flintstone;1998-04-18;71597;Books/Mags;Wales;?1 954,61;?2 221,15;?388,70;?2 609,85
+3;Barney Rubble;1998-04-20;73840;Peripherals;Scotland;?1 446,45;?1 572,23;?275,14;?1 847,37
+3;Barney Rubble;1998-04-20;21652;Books/Mags;Scotland;?1 483,90;?1 745,77;?305,51;?2 051,28
+4;Mickey Mouse;1998-04-21;41033;Hardware;England;?2 197,52;?2 497,18;?437,01;?2 934,19
+1;Fred Flintstone;1998-04-24;21260;Peripherals;Scotland;?827,68;?1 034,60;?181,06;?1 215,66
+3;Barney Rubble;1998-04-24;10204;Peripherals;Ireland;?3 812,58;?4 593,47;?803,86;?5 397,33
+4;Mickey Mouse;1998-04-29;30177;Software;Scotland;?4 112,42;?4 153,96;?726,94;?4 880,90
+1;Fred Flintstone;1998-05-01;42983;Peripherals;Ireland;?1 085,83;?1 096,80;?191,94;?1 288,74
+3;Barney Rubble;1998-05-02;23485;Software;Ireland;?880,42;?978,24;?171,19;?1 149,43
+4;Mickey Mouse;1998-05-03;71708;Software;Ireland;?1 375,21;?1 656,88;?289,95;?1 946,83
+1;Fred Flintstone;1998-05-04;18002;Books/Mags;Wales;?2 430,95;?3 038,69;?531,77;?3 570,46
+4;Mickey Mouse;1998-05-09;37333;Hardware;Scotland;?2 800,62;?3 111,80;?544,57;?3 656,37
+4;Mickey Mouse;1998-05-09;40450;Peripherals;Ireland;?813,28;?884,00;?154,70;?1 038,70
+1;Fred Flintstone;1998-05-12;3829;Hardware;Ireland;?3 067,73;?3 652,06;?639,11;?4 291,17
+2;Donald Duck;1998-05-12;250;Books/Mags;Wales;?79,55;?91,44;?16,00;?107,44
+2;Donald Duck;1998-05-13;32393;Software;Ireland;?1 461,50;?1 642,13;?287,37;?1 929,50
+4;Mickey Mouse;1998-05-13;15338;Hardware;Scotland;?18,88;?21,95;?3,84;?25,79
+2;Donald Duck;1998-05-15;14900;Peripherals;Scotland;?2 676,93;?2 941,68;?514,79;?3 456,47
+4;Mickey Mouse;1998-05-15;51993;Books/Mags;Wales;?2 709,87;?3 079,40;?538,90;?3 618,30
+1;Fred Flintstone;1998-05-18;61908;Books/Mags;Wales;?682,82;?703,94;?123,19;?827,13
+4;Mickey Mouse;1998-05-18;1955;Peripherals;Wales;?2 280,81;?2 683,30;?469,58;?3 152,88
+3;Barney Rubble;1998-05-20;54643;Software;Ireland;?3 588,52;?3 817,57;?668,07;?4 485,64
+4;Mickey Mouse;1998-05-20;71930;Software;Ireland;?2 597,76;?3 207,11;?561,24;?3 768,35
+2;Donald Duck;1998-05-21;73838;Books/Mags;Scotland;?2 451,65;?2 785,97;?487,54;?3 273,51
+4;Mickey Mouse;1998-05-23;26119;Hardware;England;?670,13;?770,26;?134,80;?905,06
+1;Fred Flintstone;1998-05-23;75182;Hardware;Wales;?1 499,66;?1 851,43;?324,00;?2 175,43
+1;Fred Flintstone;1998-05-28;49602;Software;Wales;?1 051,53;?1 181,49;?206,76;?1 388,25
+1;Fred Flintstone;1998-05-30;56263;Software;Scotland;?1 531,85;?1 702,06;?297,86;?1 999,92
+2;Donald Duck;1998-05-30;7000;Books/Mags;England;?3 599,57;?4 234,79;?741,09;?4 975,88
+3;Barney Rubble;1998-06-01;51812;Peripherals;England;?1 972,03;?2 320,04;?406,01;?2 726,05
+4;Mickey Mouse;1998-06-04;43836;Books/Mags;England;?2 904,29;?3 057,15;?535,00;?3 592,15
+4;Mickey Mouse;1998-06-05;28659;Hardware;Ireland;?346,46;?393,71;?68,90;?462,61
+4;Mickey Mouse;1998-06-08;41830;Books/Mags;Scotland;?3 374,61;?4 065,79;?711,51;?4 777,30
+1;Fred Flintstone;1998-06-10;13401;Hardware;Scotland;?2 334,32;?2 746,26;?480,60;?3 226,86
+1;Fred Flintstone;1998-06-10;5773;Hardware;Wales;?2 153,21;?2 533,19;?443,31;?2 976,50
+2;Donald Duck;1998-06-11;4664;Peripherals;Wales;?558,89;?681,57;?119,27;?800,84
+1;Fred Flintstone;1998-06-11;50030;Hardware;Scotland;?634,12;?653,73;?114,40;?768,13
+4;Mickey Mouse;1998-06-11;43517;Hardware;England;?4 256,33;?4 343,19;?760,06;?5 103,25
+1;Fred Flintstone;1998-06-12;65654;Software;England;?169,03;?187,81;?32,87;?220,68
+2;Donald Duck;1998-06-12;59104;Hardware;Ireland;?3 294,66;?3 660,73;?640,63;?4 301,36
+3;Barney Rubble;1998-06-13;25835;Hardware;Ireland;?4 046,04;?4 546,11;?795,57;?5 341,68
+1;Fred Flintstone;1998-06-14;10953;Software;Ireland;?2 284,96;?2 405,22;?420,91;?2 826,13
+4;Mickey Mouse;1998-06-14;65322;Peripherals;England;?1 734,29;?1 751,81;?306,57;?2 058,38
+3;Barney Rubble;1998-06-16;67843;Software;Scotland;?174,29;?191,53;?33,52;?225,05
+2;Donald Duck;1998-06-17;25635;Books/Mags;Scotland;?2 495,28;?2 935,62;?513,73;?3 449,35
+2;Donald Duck;1998-06-19;44564;Hardware;England;?940,38;?1 119,50;?195,91;?1 315,41
+2;Donald Duck;1998-06-20;68118;Software;Wales;?3 998,32;?4 299,27;?752,37;?5 051,64
+3;Barney Rubble;1998-06-22;48868;Software;Scotland;?3 939,64;?4 191,11;?733,44;?4 924,55
+2;Donald Duck;1998-06-23;10559;Hardware;Scotland;?3 821,98;?4 246,64;?743,16;?4 989,80
+2;Donald Duck;1998-06-23;49531;Hardware;England;?4 127,50;?4 799,42;?839,90;?5 639,32
+2;Donald Duck;1998-06-25;47235;Software;England;?3 317,47;?3 996,95;?699,47;?4 696,42
+3;Barney Rubble;1998-06-25;58148;Books/Mags;Wales;?949,16;?1 157,51;?202,56;?1 360,07
+4;Mickey Mouse;1998-06-30;1734;Books/Mags;Scotland;?1 051,50;?1 084,02;?189,70;?1 273,72
+2;Donald Duck;1998-06-30;20943;Hardware;Wales;?4 118,43;?4 245,80;?743,02;?4 988,82
+4;Mickey Mouse;1998-07-01;6926;Books/Mags;Wales;?3 859,53;?4 105,88;?718,53;?4 824,41
+3;Barney Rubble;1998-07-03;71973;Software;Ireland;?3 267,68;?3 630,75;?635,38;?4 266,13
+1;Fred Flintstone;1998-07-06;27785;Hardware;Scotland;?3 674,02;?3 827,10;?669,74;?4 496,84
+4;Mickey Mouse;1998-07-07;22568;Peripherals;Ireland;?3 778,51;?4 062,91;?711,01;?4 773,92
+4;Mickey Mouse;1998-07-07;48438;Peripherals;Wales;?395,31;?439,23;?76,87;?516,10
+2;Donald Duck;1998-07-07;29314;Software;Scotland;?2 747,38;?3 122,02;?546,35;?3 668,37
+2;Donald Duck;1998-07-07;29169;Peripherals;Scotland;?3 708,70;?4 363,18;?763,56;?5 126,74
+3;Barney Rubble;1998-07-08;12876;Hardware;Wales;?4 637,10;?4 881,16;?854,20;?5 735,36
+2;Donald Duck;1998-07-12;55135;Software;Ireland;?3 261,10;?3 396,98;?594,47;?3 991,45
+2;Donald Duck;1998-07-13;37712;Hardware;England;?825,19;?1 018,75;?178,28;?1 197,03
+2;Donald Duck;1998-07-14;4597;Software;Scotland;?1 836,18;?2 295,22;?401,66;?2 696,88
+2;Donald Duck;1998-07-15;24426;Peripherals;England;?2 916,34;?3 391,09;?593,44;?3 984,53
+1;Fred Flintstone;1998-07-16;76725;Hardware;Wales;?3 298,93;?3 436,39;?601,37;?4 037,76
+2;Donald Duck;1998-07-18;10806;Software;Wales;?4 248,41;?4 827,74;?844,85;?5 672,59
+4;Mickey Mouse;1998-07-19;48056;Hardware;Ireland;?3 431,49;?3 650,52;?638,84;?4 289,36
+4;Mickey Mouse;1998-07-19;12887;Software;Wales;?1 366,28;?1 666,19;?291,58;?1 957,77
+3;Barney Rubble;1998-07-20;37305;Peripherals;England;?2 227,24;?2 749,68;?481,19;?3 230,87
+4;Mickey Mouse;1998-07-21;69049;Peripherals;Ireland;?2 279,46;?2 620,07;?458,51;?3 078,58
+3;Barney Rubble;1998-07-21;35612;Books/Mags;Scotland;?400,69;?465,92;?81,54;?547,46
+1;Fred Flintstone;1998-07-22;21032;Peripherals;Ireland;?115,39;?144,24;?25,24;?169,48
+2;Donald Duck;1998-07-23;13588;Software;Wales;?1 336,97;?1 350,47;?236,33;?1 586,80
+1;Fred Flintstone;1998-07-25;68793;Software;Ireland;?1 487,63;?1 792,33;?313,66;?2 105,99
+2;Donald Duck;1998-07-26;22449;Peripherals;Ireland;?295,86;?336,20;?58,84;?395,04
+2;Donald Duck;1998-07-26;61960;Hardware;Ireland;?1 593,91;?1 713,88;?299,93;?2 013,81
+4;Mickey Mouse;1998-07-27;40803;Software;England;?4 308,03;?4 583,01;?802,03;?5 385,04
+3;Barney Rubble;1998-07-30;75592;Books/Mags;Ireland;?3 112,00;?3 241,67;?567,29;?3 808,96
+2;Donald Duck;1998-07-31;3041;Hardware;Ireland;?3 829,00;?4 302,25;?752,89;?5 055,14
+1;Fred Flintstone;1998-08-01;8087;Software;Scotland;?223,66;?279,58;?48,93;?328,51
+3;Barney Rubble;1998-08-03;58155;Books/Mags;Wales;?3 386,04;?3 892,00;?681,10;?4 573,10
+1;Fred Flintstone;1998-08-03;30518;Hardware;Ireland;?3 523,11;?4 144,84;?725,35;?4 870,19
+4;Mickey Mouse;1998-08-05;40699;Books/Mags;Scotland;?994,36;?1 104,84;?193,35;?1 298,19
+4;Mickey Mouse;1998-08-07;20460;Books/Mags;England;?763,46;?829,85;?145,22;?975,07
+1;Fred Flintstone;1998-08-09;25134;Software;Scotland;?2 242,95;?2 638,77;?461,78;?3 100,55
+1;Fred Flintstone;1998-08-09;20059;Software;Scotland;?4 534,48;?4 674,72;?818,08;?5 492,80
+2;Donald Duck;1998-08-09;74734;Books/Mags;Ireland;?2 814,10;?3 272,21;?572,64;?3 844,85
+4;Mickey Mouse;1998-08-10;72821;Software;Ireland;?3 659,73;?3 935,19;?688,66;?4 623,85
+2;Donald Duck;1998-08-13;52984;Peripherals;Wales;?223,01;?229,91;?40,23;?270,14
+1;Fred Flintstone;1998-08-14;73822;Software;England;?2 960,14;?3 700,18;?647,53;?4 347,71
+4;Mickey Mouse;1998-08-16;3051;Hardware;England;?1 323,72;?1 408,21;?246,44;?1 654,65
+3;Barney Rubble;1998-08-17;47612;Hardware;Scotland;?1 421,85;?1 579,83;?276,47;?1 856,30
+1;Fred Flintstone;1998-08-18;73840;Hardware;Wales;?237,39;?244,73;?42,83;?287,56
+1;Fred Flintstone;1998-08-19;68273;Hardware;England;?564,94;?570,65;?99,86;?670,51
+1;Fred Flintstone;1998-08-20;15001;Hardware;England;?1 701,50;?1 933,52;?338,37;?2 271,89
+4;Mickey Mouse;1998-08-21;46047;Books/Mags;Scotland;?816,58;?824,83;?144,35;?969,18
+2;Donald Duck;1998-08-22;14502;Books/Mags;Wales;?303,75;?375,00;?65,63;?440,63
+1;Fred Flintstone;1998-08-22;69602;Peripherals;England;?68,63;?78,88;?13,80;?92,68
+2;Donald Duck;1998-08-24;37219;Books/Mags;Wales;?1 668,94;?2 086,17;?365,08;?2 451,25
+2;Donald Duck;1998-08-25;19598;Books/Mags;Scotland;?2 266,72;?2 312,98;?404,77;?2 717,75
+3;Barney Rubble;1998-08-26;22636;Hardware;Scotland;?4 200,03;?4 565,25;?798,92;?5 364,17
+4;Mickey Mouse;1998-08-26;27857;Peripherals;Wales;?1 321,56;?1 436,48;?251,38;?1 687,86
+2;Donald Duck;1998-08-27;58380;Books/Mags;Wales;?868,23;?877,00;?153,48;?1 030,48
+4;Mickey Mouse;1998-08-27;58458;Hardware;Ireland;?4 162,07;?4 381,13;?766,70;?5 147,83
+4;Mickey Mouse;1998-08-27;42463;Peripherals;Ireland;?2 913,44;?3 132,73;?548,23;?3 680,96
+3;Barney Rubble;1998-08-27;71215;Peripherals;England;?3 578,52;?3 766,86;?659,20;?4 426,06
+4;Mickey Mouse;1998-08-29;15629;Books/Mags;England;?3 172,55;?3 525,06;?616,89;?4 141,95
+3;Barney Rubble;1998-09-01;37150;Peripherals;England;?2 038,19;?2 058,78;?360,29;?2 419,07
+3;Barney Rubble;1998-09-02;60939;Peripherals;Ireland;?195,78;?197,76;?34,61;?232,37
+3;Barney Rubble;1998-09-02;66768;Hardware;Ireland;?188,61;?232,85;?40,75;?273,60
+1;Fred Flintstone;1998-09-04;18146;Books/Mags;Scotland;?2 799,12;?3 372,43;?590,18;?3 962,61
+3;Barney Rubble;1998-09-05;64818;Hardware;England;?1 854,78;?1 932,06;?338,11;?2 270,17
+3;Barney Rubble;1998-09-06;14906;Peripherals;Scotland;?2 142,81;?2 209,08;?386,59;?2 595,67
+3;Barney Rubble;1998-09-07;36869;Books/Mags;Ireland;?3 400,44;?4 146,88;?725,70;?4 872,58
+4;Mickey Mouse;1998-09-08;54802;Books/Mags;Ireland;?342,97;?398,80;?69,79;?468,59
+3;Barney Rubble;1998-09-08;57458;Peripherals;Ireland;?1 277,01;?1 358,52;?237,74;?1 596,26
+2;Donald Duck;1998-09-08;30011;Hardware;England;?2 339,86;?2 629,06;?460,09;?3 089,15
+1;Fred Flintstone;1998-09-09;74255;Software;Scotland;?489,91;?576,36;?100,86;?677,22
+4;Mickey Mouse;1998-09-11;59691;Books/Mags;England;?228,66;?245,87;?43,03;?288,90
+1;Fred Flintstone;1998-09-12;26722;Hardware;Scotland;?540,24;?658,83;?115,30;?774,13
+2;Donald Duck;1998-09-12;57815;Peripherals;Ireland;?1 834,68;?1 931,24;?337,97;?2 269,21
+1;Fred Flintstone;1998-09-12;26199;Peripherals;Wales;?1 006,04;?1 143,23;?200,07;?1 343,30
+3;Barney Rubble;1998-09-12;31276;Peripherals;Wales;?3 700,65;?4 353,71;?761,90;?5 115,61
+3;Barney Rubble;1998-09-16;40737;Books/Mags;Ireland;?1 525,70;?1 640,54;?287,09;?1 927,63
+1;Fred Flintstone;1998-09-16;51632;Books/Mags;Ireland;?3 341,44;?3 931,10;?687,94;?4 619,04
+2;Donald Duck;1998-09-17;5266;Peripherals;Wales;?408,30;?474,77;?83,08;?557,85
+4;Mickey Mouse;1998-09-19;37359;Software;Wales;?4 283,78;?4 606,22;?806,09;?5 412,31
+1;Fred Flintstone;1998-09-20;20666;Books/Mags;Ireland;?853,34;?1 053,51;?184,36;?1 237,87
+1;Fred Flintstone;1998-09-21;18222;Software;Wales;?2 839,48;?3 263,77;?571,16;?3 834,93
+2;Donald Duck;1998-09-22;12793;Hardware;England;?1 660,09;?1 908,15;?333,93;?2 242,08
+1;Fred Flintstone;1998-09-23;16220;Software;Ireland;?2 857,57;?2 945,95;?515,54;?3 461,49
+2;Donald Duck;1998-09-26;66103;Hardware;Ireland;?221,47;?223,71;?39,15;?262,86
+3;Barney Rubble;1998-09-26;22961;Peripherals;Wales;?1 962,32;?2 156,40;?377,37;?2 533,77
+4;Mickey Mouse;1998-09-27;42026;Peripherals;Ireland;?1 475,60;?1 505,71;?263,50;?1 769,21
+2;Donald Duck;1998-09-27;41710;Software;Ireland;?2 300,78;?2 644,57;?462,80;?3 107,37
+1;Fred Flintstone;1998-09-27;54745;Peripherals;Wales;?2 005,66;?2 279,16;?398,85;?2 678,01
+2;Donald Duck;1998-09-28;34803;Software;Scotland;?1 114,13;?1 185,24;?207,42;?1 392,66
+1;Fred Flintstone;1998-09-30;8723;Peripherals;Wales;?3 830,71;?4 403,11;?770,54;?5 173,65
+2;Donald Duck;1998-10-02;7351;Software;England;?3 416,52;?4 067,29;?711,78;?4 779,07
+1;Fred Flintstone;1998-10-02;42374;Books/Mags;England;?362,26;?416,39;?72,87;?489,26
+4;Mickey Mouse;1998-10-03;15700;Books/Mags;Wales;?3 044,77;?3 805,96;?666,04;?4 472,00
+1;Fred Flintstone;1998-10-04;12963;Peripherals;Wales;?4 198,13;?4 997,77;?874,61;?5 872,38
+1;Fred Flintstone;1998-10-04;65341;Software;Scotland;?2 662,28;?2 832,21;?495,64;?3 327,85
+3;Barney Rubble;1998-10-06;2389;Peripherals;Ireland;?344,93;?351,97;?61,59;?413,56
+4;Mickey Mouse;1998-10-06;53446;Peripherals;Wales;?3 854,27;?4 282,52;?749,44;?5 031,96
+2;Donald Duck;1998-10-07;35286;Hardware;Scotland;?1 178,01;?1 202,05;?210,36;?1 412,41
+2;Donald Duck;1998-10-07;49947;Peripherals;Wales;?777,62;?793,49;?138,86;?932,35
+1;Fred Flintstone;1998-10-09;5656;Peripherals;Ireland;?2 984,57;?3 684,66;?644,82;?4 329,48
+3;Barney Rubble;1998-10-10;69213;Peripherals;Wales;?1 790,57;?1 865,18;?326,41;?2 191,59
+4;Mickey Mouse;1998-10-10;47123;Software;Wales;?4 656,33;?4 953,54;?866,87;?5 820,41
+1;Fred Flintstone;1998-10-11;26554;Software;Scotland;?3 505,62;?4 382,02;?766,85;?5 148,87
+1;Fred Flintstone;1998-10-12;45907;Books/Mags;Scotland;?2 793,92;?3 139,24;?549,37;?3 688,61
+4;Mickey Mouse;1998-10-13;75696;Hardware;Wales;?2 426,81;?2 554,54;?447,04;?3 001,58
+4;Mickey Mouse;1998-10-14;76438;Peripherals;England;?3 502,61;?4 072,80;?712,74;?4 785,54
+2;Donald Duck;1998-10-15;13992;Hardware;Ireland;?2 595,56;?2 821,26;?493,72;?3 314,98
+4;Mickey Mouse;1998-10-16;30128;Software;Wales;?178,55;?202,90;?35,51;?238,41
+4;Mickey Mouse;1998-10-18;25995;Software;Wales;?3 051,84;?3 317,22;?580,51;?3 897,73
+4;Mickey Mouse;1998-10-18;14468;Hardware;Wales;?3 454,88;?4 064,56;?711,30;?4 775,86
+2;Donald Duck;1998-10-21;42947;Software;Scotland;?4 582,66;?4 628,95;?810,07;?5 439,02
+4;Mickey Mouse;1998-10-22;1676;Peripherals;Ireland;?2 577,26;?2 741,77;?479,81;?3 221,58
+3;Barney Rubble;1998-10-22;53938;Hardware;England;?1 338,38;?1 470,75;?257,38;?1 728,13
+3;Barney Rubble;1998-10-23;66915;Hardware;Scotland;?3 952,80;?4 941,00;?864,68;?5 805,68
+3;Barney Rubble;1998-10-26;56334;Hardware;Wales;?4 089,63;?4 304,87;?753,35;?5 058,22
+3;Barney Rubble;1998-10-30;49399;Software;Scotland;?218,87;?251,57;?44,02;?295,59
+1;Fred Flintstone;1998-10-30;55622;Peripherals;Ireland;?2 904,10;?3 630,13;?635,27;?4 265,40
+1;Fred Flintstone;1998-10-31;17257;Peripherals;England;?1 509,55;?1 524,80;?266,84;?1 791,64
+4;Mickey Mouse;1998-11-01;36716;Hardware;Ireland;?3 688,93;?4 554,24;?796,99;?5 351,23
+3;Barney Rubble;1998-11-04;8619;Books/Mags;Ireland;?3 896,96;?4 282,37;?749,41;?5 031,78
+2;Donald Duck;1998-11-05;13473;Software;England;?802,26;?943,83;?165,17;?1 109,00
+1;Fred Flintstone;1998-11-06;56942;Books/Mags;Scotland;?3 755,38;?4 524,55;?791,80;?5 316,35
+2;Donald Duck;1998-11-09;26750;Software;Wales;?3 989,59;?4 336,51;?758,89;?5 095,40
+4;Mickey Mouse;1998-11-10;4970;Software;Wales;?1 560,50;?1 696,20;?296,84;?1 993,04
+1;Fred Flintstone;1998-11-10;62119;Peripherals;Wales;?3 263,59;?3 839,52;?671,92;?4 511,44
+3;Barney Rubble;1998-11-11;38797;Peripherals;Scotland;?301,90;?308,06;?53,91;?361,97
+4;Mickey Mouse;1998-11-13;5736;Peripherals;England;?3 611,71;?3 842,24;?672,39;?4 514,63
+2;Donald Duck;1998-11-16;59881;Peripherals;Wales;?1 259,69;?1 431,47;?250,51;?1 681,98
+1;Fred Flintstone;1998-11-16;9011;Software;England;?2 191,72;?2 490,59;?435,85;?2 926,44
+3;Barney Rubble;1998-11-16;56034;Books/Mags;Scotland;?1 011,68;?1 162,85;?203,50;?1 366,35
+4;Mickey Mouse;1998-11-16;69306;Hardware;Scotland;?750,93;?873,17;?152,80;?1 025,97
+3;Barney Rubble;1998-11-20;10868;Books/Mags;Scotland;?1 682,13;?2 102,66;?367,97;?2 470,63
+1;Fred Flintstone;1998-11-21;37708;Peripherals;Ireland;?3 186,05;?3 389,42;?593,15;?3 982,57
+3;Barney Rubble;1998-11-21;56323;Books/Mags;Scotland;?1 013,34;?1 113,56;?194,87;?1 308,43
+4;Mickey Mouse;1998-11-22;20435;Hardware;Ireland;?105,02;?106,08;?18,56;?124,64
+2;Donald Duck;1998-11-22;72551;Hardware;Scotland;?284,68;?331,02;?57,93;?388,95
+4;Mickey Mouse;1998-11-23;33077;Software;Scotland;?631,09;?657,39;?115,04;?772,43
+3;Barney Rubble;1998-11-23;1319;Peripherals;Scotland;?2 102,62;?2 190,23;?383,29;?2 573,52
+4;Mickey Mouse;1998-11-23;73857;Peripherals;Ireland;?239,70;?249,69;?43,70;?293,39
+1;Fred Flintstone;1998-11-26;3869;Books/Mags;England;?1 309,72;?1 439,25;?251,87;?1 691,12
+3;Barney Rubble;1998-11-27;47474;Peripherals;Wales;?833,99;?851,01;?148,93;?999,94
+3;Barney Rubble;1998-11-27;5893;Peripherals;Wales;?777,59;?893,78;?156,41;?1 050,19
+3;Barney Rubble;1998-11-28;58555;Hardware;England;?370,41;?374,15;?65,48;?439,63
+1;Fred Flintstone;1998-12-01;64335;Peripherals;England;?1 466,49;?1 685,62;?294,98;?1 980,60
+3;Barney Rubble;1998-12-02;56760;Hardware;Wales;?1 808,82;?1 924,28;?336,75;?2 261,03
+1;Fred Flintstone;1998-12-03;26065;Peripherals;Scotland;?3 274,69;?3 307,77;?578,86;?3 886,63
+1;Fred Flintstone;1998-12-03;56263;Software;Wales;?4 231,79;?4 454,52;?779,54;?5 234,06
+2;Donald Duck;1998-12-05;24632;Software;Wales;?916,77;?1 091,39;?190,99;?1 282,38
+3;Barney Rubble;1998-12-06;43325;Books/Mags;Wales;?1 415,28;?1 572,53;?275,19;?1 847,72
+2;Donald Duck;1998-12-09;47359;Peripherals;Wales;?988,58;?1 110,76;?194,38;?1 305,14
+3;Barney Rubble;1998-12-09;7777;Hardware;Ireland;?2 718,84;?3 398,55;?594,75;?3 993,30
+4;Mickey Mouse;1998-12-10;64479;Peripherals;Scotland;?2 894,73;?3 405,56;?595,97;?4 001,53
+3;Barney Rubble;1998-12-11;756;Software;Ireland;?4 190,39;?4 554,77;?797,08;?5 351,85
+4;Mickey Mouse;1998-12-11;12190;Software;Wales;?1 289,40;?1 448,76;?253,53;?1 702,29
+2;Donald Duck;1998-12-11;38222;Peripherals;Scotland;?2 212,91;?2 731,99;?478,10;?3 210,09
+4;Mickey Mouse;1998-12-11;29579;Books/Mags;England;?2 012,65;?2 053,72;?359,40;?2 413,12
+2;Donald Duck;1998-12-11;52393;Software;Scotland;?804,50;?957,74;?167,60;?1 125,34
+3;Barney Rubble;1998-12-12;24781;Hardware;Ireland;?2 729,49;?3 137,34;?549,03;?3 686,37
+1;Fred Flintstone;1998-12-13;8445;Peripherals;England;?1 222,02;?1 437,67;?251,59;?1 689,26
+3;Barney Rubble;1998-12-14;35196;Peripherals;Ireland;?231,46;?282,27;?49,40;?331,67
+3;Barney Rubble;1998-12-17;71850;Peripherals;Wales;?3 713,25;?3 992,74;?698,73;?4 691,47
+1;Fred Flintstone;1998-12-17;3597;Peripherals;England;?3 292,04;?3 827,95;?669,89;?4 497,84
+4;Mickey Mouse;1998-12-17;55794;Hardware;Ireland;?3 886,74;?4 006,95;?701,22;?4 708,17
+4;Mickey Mouse;1998-12-21;12580;Software;Wales;?3 830,54;?4 671,39;?817,49;?5 488,88
+4;Mickey Mouse;1998-12-22;62292;Peripherals;Ireland;?2 032,34;?2 309,48;?404,16;?2 713,64
+3;Barney Rubble;1998-12-24;15682;Hardware;England;?4 354,12;?4 442,98;?777,52;?5 220,50
+2;Donald Duck;1998-12-24;25239;Hardware;Wales;?3 023,58;?3 435,89;?601,28;?4 037,17
+4;Mickey Mouse;1998-12-25;39188;Hardware;Ireland;?4 309,51;?4 489,07;?785,59;?5 274,66
+4;Mickey Mouse;1998-12-26;4007;Hardware;Wales;?1 059,37;?1 217,67;?213,09;?1 430,76
+1;Fred Flintstone;1998-12-27;62052;Software;Scotland;?2 532,51;?3 126,56;?547,15;?3 673,71
+4;Mickey Mouse;1998-12-28;45821;Hardware;England;?1 328,11;?1 428,07;?249,91;?1 677,98
+4;Mickey Mouse;1998-12-29;29545;Software;Wales;?1 571,45;?1 671,76;?292,56;?1 964,32
+4;Mickey Mouse;1998-12-30;51976;Books/Mags;England;?3 191,16;?3 506,77;?613,68;?4 120,45
+3;Barney Rubble;1998-12-31;6946;Books/Mags;Ireland;?3 962,22;?4 260,45;?745,58;?5 006,03
+4;Mickey Mouse;1999-01-02;29121;Peripherals;Scotland;?4 223,49;?4 911,03;?859,43;?5 770,46
+4;Mickey Mouse;1999-01-03;60832;Hardware;Ireland;?3 702,24;?4 024,17;?704,23;?4 728,40
+3;Barney Rubble;1999-01-05;72594;Peripherals;Wales;?2 635,07;?2 895,68;?506,74;?3 402,42
+4;Mickey Mouse;1999-01-06;57713;Software;England;?1 726,64;?1 798,58;?314,75;?2 113,33
+4;Mickey Mouse;1999-01-08;7713;Peripherals;Ireland;?505,19;?555,15;?97,15;?652,30
+2;Donald Duck;1999-01-11;24035;Hardware;Ireland;?2 895,79;?3 531,45;?618,00;?4 149,45
+3;Barney Rubble;1999-01-11;62342;Peripherals;Wales;?2 937,63;?3 672,04;?642,61;?4 314,65
+1;Fred Flintstone;1999-01-15;48825;Peripherals;Ireland;?3 971,67;?4 270,61;?747,36;?5 017,97
+3;Barney Rubble;1999-01-15;64812;Peripherals;Scotland;?3 080,19;?3 348,03;?585,91;?3 933,94
+4;Mickey Mouse;1999-01-17;46014;Software;Wales;?3 944,73;?4 640,86;?812,15;?5 453,01
+1;Fred Flintstone;1999-01-17;3800;Peripherals;Wales;?1 992,76;?2 166,04;?379,06;?2 545,10
+2;Donald Duck;1999-01-22;73455;Books/Mags;Wales;?2 406,52;?2 560,13;?448,02;?3 008,15
+1;Fred Flintstone;1999-01-22;59399;Software;Wales;?569,23;?646,85;?113,20;?760,05
+4;Mickey Mouse;1999-01-24;54317;Software;Scotland;?2 422,74;?2 550,25;?446,29;?2 996,54
+4;Mickey Mouse;1999-01-24;77181;Books/Mags;Wales;?4 050,13;?4 939,18;?864,36;?5 803,54
+4;Mickey Mouse;1999-01-25;29292;Peripherals;Ireland;?1 790,54;?2 157,28;?377,52;?2 534,80
+3;Barney Rubble;1999-01-25;49055;Peripherals;Scotland;?2 143,68;?2 408,63;?421,51;?2 830,14
+2;Donald Duck;1999-01-26;9390;Software;Wales;?3 825,81;?4 500,95;?787,67;?5 288,62
+3;Barney Rubble;1999-01-28;21962;Hardware;England;?4 051,56;?4 823,28;?844,07;?5 667,35
+1;Fred Flintstone;1999-01-30;34352;Hardware;Scotland;?3 413,34;?3 835,21;?671,16;?4 506,37
+1;Fred Flintstone;1999-01-31;35267;Peripherals;Scotland;?882,15;?969,40;?169,65;?1 139,05
+4;Mickey Mouse;1999-01-31;74132;Peripherals;Scotland;?3 533,95;?4 257,77;?745,11;?5 002,88
+2;Donald Duck;1999-02-03;10407;Peripherals;Ireland;?2 618,09;?2 699,06;?472,34;?3 171,40
+3;Barney Rubble;1999-02-04;51597;Books/Mags;Ireland;?1 506,41;?1 837,09;?321,49;?2 158,58
+3;Barney Rubble;1999-02-06;4290;Software;Scotland;?575,72;?625,78;?109,51;?735,29
+4;Mickey Mouse;1999-02-07;24053;Books/Mags;Scotland;?71,38;?74,35;?13,01;?87,36
+1;Fred Flintstone;1999-02-07;42347;Hardware;Ireland;?1 592,04;?1 658,37;?290,21;?1 948,58
+1;Fred Flintstone;1999-02-08;60492;Books/Mags;Wales;?1,35;?1,38;?0,24;?1,62
+3;Barney Rubble;1999-02-09;21279;Peripherals;Ireland;?1 831,99;?1 991,29;?348,48;?2 339,77
+4;Mickey Mouse;1999-02-10;4268;Software;Scotland;?3 020,62;?3 432,52;?600,69;?4 033,21
+3;Barney Rubble;1999-02-11;41339;Peripherals;Scotland;?240,92;?290,27;?50,80;?341,07
+1;Fred Flintstone;1999-02-11;25140;Software;Scotland;?3 285,10;?3 957,95;?692,64;?4 650,59
+3;Barney Rubble;1999-02-14;51100;Peripherals;England;?771,41;?940,74;?164,63;?1 105,37
+1;Fred Flintstone;1999-02-15;28130;Peripherals;England;?1 405,52;?1 653,55;?289,37;?1 942,92
+2;Donald Duck;1999-02-16;73977;Peripherals;Wales;?768,73;?784,42;?137,27;?921,69
+3;Barney Rubble;1999-02-16;73272;Peripherals;England;?4 506,30;?4 898,15;?857,18;?5 755,33
+3;Barney Rubble;1999-02-18;12421;Books/Mags;England;?1 374,31;?1 431,57;?250,52;?1 682,09
+4;Mickey Mouse;1999-02-18;54431;Software;Ireland;?1 409,68;?1 740,35;?304,56;?2 044,91
+2;Donald Duck;1999-02-19;49269;Peripherals;England;?2 493,85;?3 117,31;?545,53;?3 662,84
+4;Mickey Mouse;1999-02-22;49000;Peripherals;Ireland;?4 757,99;?4 855,09;?849,64;?5 704,73
+4;Mickey Mouse;1999-02-22;54013;Software;Wales;?4 301,08;?4 344,53;?760,29;?5 104,82
+3;Barney Rubble;1999-02-26;69964;Software;Scotland;?2 421,92;?2 721,26;?476,22;?3 197,48
+1;Fred Flintstone;1999-02-27;7673;Software;England;?3 871,90;?4 609,41;?806,65;?5 416,06
+1;Fred Flintstone;1999-02-27;31840;Books/Mags;Wales;?1 794,15;?1 812,27;?317,15;?2 129,42
+4;Mickey Mouse;1999-02-28;45669;Books/Mags;Ireland;?928,08;?987,32;?172,78;?1 160,10
+2;Donald Duck;1999-03-03;23095;Hardware;Scotland;?1 463,85;?1 509,12;?264,10;?1 773,22
+1;Fred Flintstone;1999-03-04;45031;Peripherals;England;?464,81;?484,18;?84,73;?568,91
+4;Mickey Mouse;1999-03-04;76761;Hardware;England;?3 888,78;?4 860,97;?850,67;?5 711,64
+3;Barney Rubble;1999-03-04;47729;Peripherals;Scotland;?25,70;?27,05;?4,73;?31,78
+1;Fred Flintstone;1999-03-05;53153;Hardware;Scotland;?3 903,98;?4 337,75;?759,11;?5 096,86
+2;Donald Duck;1999-03-09;27139;Books/Mags;Wales;?6 523,45;?3 381,32;?591,73;?3 973,05
+2;Donald Duck;1999-03-11;2272;Peripherals;Wales;?892,61;?1 037,92;?181,64;?1 219,56
+2;Donald Duck;1999-03-13;64351;Hardware;Scotland;?217,40;?247,05;?43,23;?290,28
+4;Mickey Mouse;1999-03-14;51448;Software;England;?3 073,14;?3 573,42;?625,35;?4 198,77
+1;Fred Flintstone;1999-03-14;77015;Hardware;England;?4 277,73;?4 649,71;?813,70;?5 463,41
+1;Fred Flintstone;1999-03-15;28429;Books/Mags;Wales;?3 193,44;?3 292,21;?576,14;?3 868,35
+1;Fred Flintstone;1999-03-15;64925;Hardware;England;?3 027,25;?3 737,34;?654,03;?4 391,37
+1;Fred Flintstone;1999-03-17;71496;Hardware;Wales;?3 387,41;?3 893,58;?681,38;?4 574,96
+4;Mickey Mouse;1999-03-19;3070;Books/Mags;Ireland;?1 797,73;?1 997,48;?349,56;?2 347,04
+3;Barney Rubble;1999-03-21;58184;Software;England;?1 383,38;?1 646,88;?288,20;?1 935,08
+1;Fred Flintstone;1999-03-22;47934;Books/Mags;England;?1 827,15;?1 943,78;?340,16;?2 283,94
+3;Barney Rubble;1999-03-26;5790;Peripherals;England;?2 911,19;?3 385,10;?592,39;?3 977,49
+1;Fred Flintstone;1999-03-26;11760;Peripherals;Scotland;?3 518,70;?4 139,65;?724,44;?4 864,09
+3;Barney Rubble;1999-03-29;46106;Peripherals;Ireland;?4 019,98;?4 843,35;?847,59;?5 690,94
+2;Donald Duck;1999-03-29;13483;Peripherals;Ireland;?4 496,56;?4 588,33;?802,96;?5 391,29
+3;Barney Rubble;1999-03-29;34129;Software;Ireland;?3 616,35;?4 410,18;?771,78;?5 181,96
